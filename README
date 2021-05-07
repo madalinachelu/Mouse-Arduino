@@ -1,0 +1,8 @@
+Acest proiect isi propune sa realizeze un mouse cu joystick.
+
+Pentru acest proiect s-au folosit urmatorele componente:
+  1. Arduino Pro Micro
+  2. Joystick 
+  3. Breadboard
+  4. Programator FTDI232
+  5. Cabluri
